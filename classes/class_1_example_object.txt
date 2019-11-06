@@ -1,0 +1,11 @@
+Day Crew
+
+chefName ("Matt")
+cookNames (["Mike", "Olivia", Christian])
+numberOfStaff (4)
+isOpen (true)
+
+changeIsOpen -(false)
+addOneStaff (5, ["Mike", "Olivia", "Christian", "Victoria"])
+newChef - ("Clint")
+dayToNightCrew (["Craig", "Brian", "Will"])
