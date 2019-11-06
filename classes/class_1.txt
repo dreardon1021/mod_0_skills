@@ -1,0 +1,13 @@
+Kitchen Crew
+
+chefName (string)
+cookNames (array(with strings as values))
+numberOfStaff (integer)
+isOpen (boolean)
+
+
+
+changeIsOpen -(changes isOpen from true to false, or from "open to closed")
+addOneStaff (adds one more count to number of staff, also add new name to the array)
+newChef - (change the name of the chefName)
+dayToNightCrew (change the names of all cookNames)
