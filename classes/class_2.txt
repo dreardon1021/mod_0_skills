@@ -1,0 +1,13 @@
+Dinner Menu
+
+entreeNames (string/array)
+entreePrices (integer/array)
+menuOptionQuantity(integer)
+hasVegetarianOption(boolean)
+
+
+
+newMenuOptions - (changes entreeNames & entreePrices)
+changeHasVegetarianOption (changes from true to false or vice versa)
+subtractOneMenuItem (subtracts one from menuOptionQuantity)
+editMenuPrices (changes entreePrices)
