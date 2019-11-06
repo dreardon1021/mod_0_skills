@@ -1,0 +1,15 @@
+Dinner Menu
+
+entreeNames (["Filet Mignon", "Chicken", "Pork", "Tofu"])
+entreePrices ([40, 20, 22, 18])
+menuOptionQuantity(4)
+hasVegetarianOption(true)
+
+
+
+newMenuOptions - (["spaghetti & meatball", "veal", "quail", "ravioli"], [19, 38, 28, 20])
+subtractOneMenuItem (menuOptionQuantity = 3
+                    ["spaghetti & meatball", "veal", "quail"]
+                    [19, 38, 28])
+changeHasVegetarianOption (false)
+editMenuPrices ([19, 36, 26])
